@@ -1,0 +1,8 @@
+.buildozer/
+bin/
+*.pyc
+__pycache__/
+.installed.cfg
+*.egg
+.vscode/
+.idea/
